@@ -1,0 +1,154 @@
+﻿Species,Year,Stream,State.Prov.,Country,Elev.m,Date,GPS.Decimal.Degrees,D.From.Source.m,Verified.Since.2010,Publication
+Lednia borealis,2018,#4 White Chuck-Red Pass Fk,WA,USA,1736,18-Aug,"48.0472761, -121.159461",197,yes,Fallon et al. 2021
+Lednia borealis,2014,Colchuck Lake Inlet,WA,USA,1705,8-Aug,"47.488737, -120.837080",626,yes,"S. Hotaling, Unpublished"
+Lednia borealis,2019,Coleman Glacier #1,WA,USA,1850,28-Aug,"48.78973, -121.86446",45.2,yes,Fallon et al. 2021
+Lednia borealis,2019,Coleman Glacier #2,WA,USA,1795,28-Aug,"48.78907, -121.86536",22.9,yes,Fallon et al. 2021
+Lednia borealis,2019,Coleman Glacier #3,WA,USA,1809,28-Aug,"48.78847, -121.8671",25,yes,Fallon et al. 2021
+Lednia borealis,2000,Fryingpan Creek (bridge),WA,USA,1162,16-Jul,"46.888168, -121.609862",6850,no,"Kondratieff and Lechleitner, 2002, Fallon et al. 2021"
+Lednia borealis,2019,Green Lake inlet creek,WA,USA,1666,28-Aug,"48.80824, -121.73718",44.6,yes,Fallon et al. 2021
+Lednia borealis,1989,Middle Tapto Lake,WA,USA,1747,8-Sep,"48.88256, -121.36928",346,no,"Baumann and Kondratieff, 2010"
+Lednia borealis,1989,Nert Lake,WA,USA,1389,11-Sep,"48.70487, -121.50160",852,no,"Baumann and Kondratieff, 2010"
+Lednia borealis,1989,No Name Lake,WA,USA,1171,24-Aug,"48.85027, -121.11291",719,no,"Baumann and Kondratieff, 2010"
+Lednia borealis,1989,Price Lake,WA,USA,1192,6-Sep,"48.85365, -121.60296",0,no,"Baumann and Kondratieff, 2010"
+Lednia borealis,1989,Redoubt Lake,WA,USA,1615,29-Aug,"48.97380, -121.31214",162,no,"Baumann and Kondratieff, 2010"
+Lednia borealis,2019,Sholes Glacier,WA,USA,1856,28-Aug,"48.81393, -121.76067",0,yes,Fallon et al. 2021
+Lednia borealis,2010,Snow Lakes 1,WA,USA,1433,23-Aug,"46.757046, -121.6989",285,yes,Kubo et al. 2012
+Lednia borealis,2019,Unnamed trib to Green Lake,WA,USA,1732,28-Aug,"48.81106, -121.74036",138,yes,Fallon et al. 2021
+Lednia borealis,1987,Upper Bagley Lake,WA,USA,1341,30-Jul,"48.853532, -121.691577",576,no,Fallon et al. 2021
+Lednia borealis,2018,Upper Lyman 2,WA,USA,1810,11-Aug,"48.18055, -120.89793",995,yes,Fallon et al. 2021
+Lednia sierra,2018,1000 Island Lakes inlet,CA,USA,3006,6-Sep,"37.709935, -119.192218",448,yes,"M. Green, Unpubilshed"
+Lednia sierra,2018,Cascade Lake Inlet,CA,USA,3160,14-Sep,"37.986267, -119.307404",134,yes,"M. Green, Unpubilshed"
+Lednia sierra,2010,Cold Water Creek,CA,USA,3105,19-Aug,"37.571860,-118.987246",66,yes,"Baumann and Kondratieff, 2010, Hotaling et al., 2018, M. Green, Unpublished"
+Lednia sierra,1986,Coness Lake inlet,CA,USA,3414,11-Aug,"37.972288, -119.314058",502,no,"Baumann and Kondratieff, 2010"
+Lednia sierra,2018,Donoghue Pass-East Lyell Fork,CA,USA,3274,5-Sep,"37.754299,-119.258707",232,yes,"M. Green, Unpubilshed"
+Lednia sierra,2018,Marie Lakes Outlet,CA,USA,3420,6-Sep,"37.737302,-119.247566",376,yes,"M. Green, Unpubilshed"
+Lednia sierra,2010,Ruby Creek,CA,USA,3450,27-Aug,"37.41138889, -118.77027778",1741,no,"Baumann and Kondratieff, 2010"
+Lednia sierra,1985,South Fork Big Pine Creek,CA,USA,3353,27-Aug,"37.102962, -118.483304",1230,no,"Baumann and Kondratieff, 2010"
+Lednia tetonica,2018,Cloudveil Dome Icy Seep,WY,USA,2916,NA,"43.725433,-110.796232",270,yes,Unpublished
+Lednia tetonica,2017,Delta Lake inlet,WY,USA,2814,5-Aug-17,"43.73327, -110.77566",556,yes,Unpublished
+Lednia tetonica,2015,Mica Lake outlet,WY,USA,2891,4-Aug-15,"43.78534, -110.84130",638,yes,Unpublished
+Lednia tetonica,2018,Mt. St. John,WY,USA,2678,NA,"43.79171,-110.778170",1,yes,Unpublished
+Lednia tetonica,2016,NF Teton #2,WY,USA,2798,5-Aug-16,"43.76815, -110.86075",3,yes,"Hotaling et al., 2018"
+Lednia tetonica,2016,Schoolroom Glacier seep,WY,USA,3044,3-Aug-16,"43.728583,-110.844095",246,yes,"Hotaling et al., 2018"
+Lednia tetonica,2017,Skillet Glacier,WY,USA,2728,9-Aug-17,"43.839528,-110.756454",440,yes,Unpublished
+Lednia tetonica,2016,South AK basin,WY,USA,2886,2-Aug-16,"43.692744,-110.858517",0,yes,Unpublished
+Lednia tetonica,2016,South Cascade (2015 low),WY,USA,2951,4-Aug-16,"43.72856, -110.83725",1040,yes,Unpublished
+Lednia tetonica,2016,Sunset Lake inlet,WY,USA,2949,3-Aug-16,"43.7102,-110.8556",0,yes,"Hotaling et al., 2018"
+Lednia tetonica,2016,Table Mtn #3,WY,USA,3034,5-Aug-16,"43.752,-110.858",50,yes,Unpublished
+Lednia tetonica,2016,Teton Meadows #1,WY,USA,2845,27-Jul-16,"43.7258, -110.7931",523,yes,"Hotaling et al., 2018"
+Lednia tetonica,2017,Upper Paintbrush pond,WY,USA,2877,7-Aug-17,"43.785633,-110.800574",0,yes,Unpublished
+Lednia tetonica,2017,Upper Paintbrush rock glacier,WY,USA,2805,6-Aug-17,"43.786002, -110.792004",101,yes,"Hotaling et al., 2018"
+Lednia tetonica,2017,W Buck Mtn,WY,USA,3119,13-Aug-17,"43.6895,-110.8327",45,yes,"Hotaling et al., 2018"
+Lednia tetonica,2012,Wind Cave (2015 high),WY,USA,2621,8-Aug-17,"43.66607, -110.95602",20,yes,"Baumann and Call, 2012"
+Lednia tumana,2017,Agassiz Glacier East,MT,USA,1835,NA,"48.9459, -114.1401",767,yes,Giersch et al. 2017
+Lednia tumana,1997,Ahern Pass,MT,USA,2038,NA,"48.8192, -113.7732",469,yes,Giersch et al. 2017
+Lednia tumana,2017,Appistoki Creek,MT,USA,2095,NA,"48.4588, -113.3489",345,yes,Giersch et al. 2017
+Lednia tumana,2020,Bearhat Mtn./Hidden Lk.,MT,USA,1952,NA,"48.66501, -113.74906",267,yes,"Hotaling et al., in press"
+Lednia tumana,1998,Bering Creek,MT,USA,2057,NA,"48.707978,-113.621181",224,yes,"Muhlfeld et al., 2011"
+Lednia tumana,1976,Bertha Brook below Bertha Lake,AB,CAN,1766,25-Aug,"49.030618,-113.935313",2072,no,"Donald and Anderson, 1977"
+Lednia tumana,2017,Birdwoman East,MT,USA,1933,NA,"48.6991, -113.7473",21,yes,Giersch et al. 2017
+Lednia tumana,2017,Birdwoman West,MT,USA,2066,NA,"48.6965, -113.7577",104,yes,Giersch et al. 2017
+Lednia tumana,2017,Blackfoot Glacier,MT,USA,1981.3,NA,"48.6023, -113.6667",268,yes,Giersch et al. 2017
+Lednia tumana,2017,Blackfoot Glacier Far East,MT,USA,2039,NA,"48.6019, -113.6603",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Boulder Creek,MT,USA,2166,NA,"48.7195, -113.6205",80,yes,Giersch et al. 2017
+Lednia tumana,2017,Boulder Glacier,MT,USA,2230.33,NA,"48.9608, -114.0909",458,yes,Giersch et al. 2017
+Lednia tumana,2017,Boulder Pass 1,MT,USA,2180,NA,"48.9652, -114.0937",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Boulder Pass 2,MT,USA,2248,NA,"48.9626, -114.0969",0,yes,Giersch et al. 2017
+Lednia tumana,2000,Bullhead lake inlet,MT,USA,1610,NA,"48.780,-113.743",1310,yes,"Muhlfeld et al., 2011"
+Lednia tumana,2017,Buttercup Park upper far West,MT,USA,1865,NA,"48.422, -113.3876",389,yes,Giersch et al. 2017
+Lednia tumana,2010,Cataract Creek,MT,USA,2225,NA,"48.721,-113.693",221,yes,"Muhlfeld et al., 2011, Giersch et al. 2017"
+Lednia tumana,2017,Cataract Creek East 3,MT,USA,2134,NA,"48.7252, -113.6716",164,yes,Giersch et al. 2017
+Lednia tumana,2017,Cataract Creek West,MT,USA,1619,NA,"48.7425, -113.7001",190,yes,Giersch et al. 2017
+Lednia tumana,2017,Cattle Queen Creek,MT,USA,1906.5,NA,"48.8343, -113.7964",1015,yes,Giersch et al. 2017
+Lednia tumana,2017,Chaney Glacier seep,MT,USA,2169,NA,"48.8548, -113.8257",184,yes,Giersch et al. 2017
+Lednia tumana,2017,Clements Basin North,MT,USA,2201,NA,"48.694, -113.7335",155,yes,Giersch et al. 2017
+Lednia tumana,1998,Clements Creek,MT,USA,2085.33,NA,"48.690,-113.734",189,yes,"Muhlfeld et al., 2011, Giersch et al. 2017"
+Lednia tumana,2000,Cracker Lake inlet,MT,USA,1879,NA,"48.738,-113.653",382,yes,"Muhlfeld et al., 2011,Hotaling et al., 2018"
+Lednia tumana,2011,Grant Glacier,MT,USA,1724.5,NA,"48.329269, -113.741139",478,yes,"Hotaling et al. 2018,Hotaling et al., in press"
+Lednia tumana,2017,Grinnell Glacier,MT,USA,1911.2,NA,"48.7566, -113.7247",744,yes,Giersch et al. 2017
+Lednia tumana,2017,Grinnell Glacier North 2,MT,USA,1822,NA,"48.774, -113.7131",515,yes,Giersch et al. 2017
+Lednia tumana,1997,Gunsight Lake 1,MT,USA,2070,NA,"48.612116, -113.728951",710,yes,Giersch et al. 2017
+Lednia tumana,2017,Gunsight Lake 3,MT,USA,1913,NA,"48.6152, -113.7236",334,yes,Giersch et al. 2017
+Lednia tumana,2020,Heavens Peak,MT,USA,2024,NA,"48.71022, -113.84266",292,yes,"Hotaling et al., in press"
+Lednia tumana,2017,Heavens Peak Ridge 2,MT,USA,1830,NA,"48.7412, -113.854",402,yes,Giersch et al. 2017
+Lednia tumana,1998,Hidden Lake Creek,MT,USA,2119,NA,"48.678636,-113.736738",75,yes,"Muhlfeld et al., 2011"
+Lednia tumana,2017,Hidden Lake West 1,MT,USA,2026,NA,"48.6757, -113.7522",81,yes,Giersch et al. 2017
+Lednia tumana,2017,Hidden Lake West 3,MT,USA,2135,NA,"48.6653, -113.7548",24,yes,Giersch et al. 2017
+Lednia tumana,2017,Hidden Lake West 4,MT,USA,2140,NA,"48.6613, -113.7529",250,yes,Giersch et al. 2017
+Lednia tumana,2017,Hole-in-the-Wall 2,MT,USA,2172,NA,"48.9664, -114.0752",413,yes,Giersch et al. 2017
+Lednia tumana,2017,Hole-in-the-Wall 4,MT,USA,2069.66,NA,"48.9725, -114.0674",23,yes,Giersch et al. 2017
+Lednia tumana,2017,Hole-in-the-Wall 5,MT,USA,2082,NA,"48.97, -114.0659",208,yes,Giersch et al. 2017
+Lednia tumana,2011,Jackson Glacier,MT,USA,2006,NA,"48.605547,-113.695736",217,yes,Hotaling et al. 2018
+Lednia tumana,2017,Jackson Glacier 3,MT,USA,1838,NA,"48.6043, -113.6915",586,yes,Giersch et al. 2017
+Lednia tumana,2017,Jackson Glacier far east,MT,USA,1907,NA,"48.605174, -113.683720",526,yes,Giersch et al. 2017
+Lednia tumana,2017,Jackstraw Lake 2,MT,USA,2022,NA,"48.4142, -113.3732",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Lake Ellen Wilson North,MT,USA,1908,NA,"48.6071, -113.7573",606,yes,Giersch et al. 2017
+Lednia tumana,2017,Lake Ellen Wilson South,MT,USA,1950.5,NA,"48.6073, -113.738",387,yes,Giersch et al. 2017
+Lednia tumana,2017,Logan Creek Spring,MT,USA,2062.5,NA,"48.6984, -113.7313",428,yes,Giersch et al. 2017
+Lednia tumana,1966,Logan Creek Upper North,MT,USA,2131,NA,"48.6977, -113.7333",0,yes,"Gaufin et al., 1972,Muhlfeld et al., 2011,Giersch et al. 2017"
+Lednia tumana,2017,Logging Saddle 2,MT,USA,1906.5,NA,"48.8274, -113.9855",180,yes,Giersch et al. 2017
+Lednia tumana,2010,Lunch Creek,MT,USA,2111,NA,"48.7099, -113.7043",548,yes,"Muhlfeld et al., 2011, Giersch et al. 2017, Hotaling et al. 2018,Hotaling et al., in press"
+Lednia tumana,2017,McDonald Peak South Face,MT,USA,2544,NA,"47.3754, -113.9212",90,yes,Giersch et al. 2017
+Lednia tumana,2017,Medicine Grizzly Lake,MT,USA,2176,NA,"48.5627, -113.506",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Miche Wabun Glacier 2,MT,USA,2092,NA,"48.9478, -113.8381",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Miche Wabun Glacier 3,MT,USA,2152,NA,"48.9473, -113.833",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Miche Wabun Glacier 4,MT,USA,2115,NA,"48.9476, -113.8296",0,yes,Giersch et al. 2017
+Lednia tumana,1997,Mineral Creek,MT,USA,2006.5,NA,"48.844,-113.835",173,yes,"Muhlfeld et al., 2011, Giersch et al. 2017"
+Lednia tumana,2017,Morningstar,MT,USA,2137,NA,"48.5503, -113.4661",0,yes,Giersch et al. 2017
+Lednia tumana,2017,Mt. James 2,MT,USA,2145,NA,"48.5886, -113.4827",36,yes,Giersch et al. 2017
+Lednia tumana,2017,Mt. James 3,MT,USA,2170,NA,"48.5934, -113.4853",170,yes,Giersch et al. 2017
+Lednia tumana,2017,No Name Lake 1,MT,USA,2009,NA,"48.4842, -113.4634",316,yes,Giersch et al. 2017
+Lednia tumana,2017,Old Sun Glacier,MT,USA,1598,NA,"48.8581, -113.7676",2302,yes,Giersch et al. 2017
+Lednia tumana,2017,Old Sun Glacier Pond,MT,USA,1673.5,NA,"48.8598, -113.774",50,yes,Giersch et al. 2017
+Lednia tumana,2017,Piegan Glacier 2,MT,USA,1940,NA,"48.7107, -113.6756",565,yes,Giersch et al. 2017
+Lednia tumana,2017,Piegan Pass High,MT,USA,2149.5,NA,"48.7206, -113.6934",156,yes,Giersch et al. 2017
+Lednia tumana,2017,Piegan Spring,MT,USA,2308,NA,"48.7032, -113.694",95,yes,Giersch et al. 2017
+Lednia tumana,2005,Preston Park,MT,USA,2245.5,NA,"48.7233, -113.6399",300,yes,"Muhlfeld et al., 2011, Giersch et al. 2017"
+Lednia tumana,2017,Preston Park West 1,MT,USA,2282,NA,"48.721, -113.6435",429,yes,Giersch et al. 2017
+Lednia tumana,2017,Rainbow Glacier,MT,USA,1425,NA,"48.8738, -114.0602",1674,yes,Giersch et al. 2017
+Lednia tumana,2017,Red Eagle Meadows,MT,USA,1944,NA,"48.5879, -113.6029",817,yes,Giersch et al. 2017
+Lednia tumana,2017,Reynolds Creek,MT,USA,2108.5,NA,"48.6901, -113.7335",50.2,yes,Giersch et al. 2017
+Lednia tumana,1977,Reynolds Creek Spring,MT,USA,2150,NA,"48.6826, -113.7305",238,yes,Giersch et al. 2017
+Lednia tumana,2017,Reynolds Creek West 1,MT,USA,2078,NA,"48.6873, -113.733",13,yes,Giersch et al. 2017
+Lednia tumana,2017,Reynolds Moraine Seep,MT,USA,2166,NA,"48.6882, -113.7361",59,yes,Giersch et al. 2017
+Lednia tumana,2017,Reynolds Mt. South Face 1,MT,USA,2245,NA,"48.6657, -113.7285",59.7,yes,Giersch et al. 2017
+Lednia tumana,1997,Reynolds Spring,MT,USA,2161.17,NA,"48.703,-113.695",60.1,yes,"Muhlfeld et al., 2011, Hotaling et al., 2018"
+Lednia tumana,2017,Rising Wolf North Face,MT,USA,1968,NA,"48.5025, -113.4057",76.3,yes,Giersch et al. 2017
+Lednia tumana,2017,Rising Wolf South Face,MT,USA,1973,NA,"48.4889, -113.4087",324,yes,Giersch et al. 2017
+Lednia tumana,2011,Sexton Glacier,MT,USA,1828.9,NA,"48.7003, -113.6282",247,yes,"Giersch et al. 2017, Hotaling et al., in press, Hotaling et al., 2018"
+Lednia tumana,2017,Sexton Glacier North,MT,USA,2248,NA,"48.7113, -113.6234",44.3,yes,Giersch et al. 2017
+Lednia tumana,2017,Sexton Glacier South,MT,USA,1824,NA,"48.6996, -113.6224",512,yes,Giersch et al. 2017
+Lednia tumana,2017,Shepard Glacier,MT,USA,2062.5,NA,"48.8652, -113.8568",7,yes,Giersch et al. 2017
+Lednia tumana,2020,Siyeh Bend,MT,USA,1943,NA,"48.71149, -113.67512",572,yes,"Hotaling et al., in press"
+Lednia tumana,2010,Siyeh Creek,MT,USA,1928.7,NA,"48.700,-113.671",485,yes,"Muhlfeld et al., 2011"
+Lednia tumana,2017,Siyeh Creek West,MT,USA,1843,NA,"48.7004, -113.6712",482,yes,Giersch et al. 2017
+Lednia tumana,2017,Siyeh Glacier,MT,USA,1865.7,NA,"48.7378, -113.6538",206,yes,Giersch et al. 2017
+Lednia tumana,2017,Siyeh Glacier Far West,MT,USA,1843,NA,"48.7423, -113.6516",826,yes,Giersch et al. 2017
+Lednia tumana,2017,Siyeh Glacier West,MT,USA,1889,NA,"48.7381, -113.6543",257,yes,Giersch et al. 2017
+Lednia tumana,2017,Sperry Glacier 3,MT,USA,2248,NA,"48.6312, -113.7609",485,yes,Giersch et al. 2017
+Lednia tumana,2017,Sperry Glacier 5,MT,USA,2237,NA,"48.6328, -113.7681",942,yes,Giersch et al. 2017
+Lednia tumana,2017,Sperry Glacier 6,MT,USA,2238,NA,"48.6283, -113.7673",446,yes,Giersch et al. 2017
+Lednia tumana,2017,Sue Lake East,MT,USA,2183,NA,"48.8618, -113.8403",98.3,yes,Giersch et al. 2017
+Lednia tumana,2017,Swan Glacier,MT,USA,2008,NA,"47.7291, -113.6301",347,yes,Giersch et al. 2017
+Lednia tumana,2017,Swiftcurrent Glacier 1,MT,USA,2009,NA,"48.7783, -113.756",338,yes,Giersch et al. 2017
+Lednia tumana,2017,Swiftcurrent Glacier 2,MT,USA,2029,NA,"48.7773, -113.7558",502,yes,Giersch et al. 2017
+Lednia tumana,2017,Swiftcurrent Glacier 3,MT,USA,1622,NA,"48.778, -113.7461",902,yes,Giersch et al. 2017
+Lednia tumana,2017,Swiftcurrent Glacier 4,MT,USA,2094,NA,"48.7818, -113.758",522,yes,Giersch et al. 2017
+Lednia tumana,2011,Swiftcurrent Glacier outlet,MT,USA,2010,NA,"48.7782, -113.755933",401,yes,"Hotaling et al., 2018"
+Lednia tumana,2017,Thunderbird Glacier 1,MT,USA,2058.2,NA,"48.9447, -114.0373",243,yes,Giersch et al. 2017
+Lednia tumana,2017,Triple Divide Pass 3,MT,USA,2002.7,NA,"48.5823, -113.5306",318,yes,Giersch et al. 2017
+Lednia tumana,2010,Tunnel Creek,MT,USA,1604.7,NA,"48.329,-113.741",311,yes,"Muhlfeld et al., 2011, Giersch et al. 2017"
+Lednia tumana,2017,Twin Lakes,MT,USA,2051,NA,"48.6439, -113.7393",39.7,yes,Giersch et al. 2017
+Lednia tumana,2017,Two Ocean Glacier 1,MT,USA,2279,NA,"48.8428, -114.0155",174,yes,Giersch et al. 2017
+Lednia tumana,2017,Two Ocean Glacier 2,MT,USA,2311,NA,"48.8383, -114.012",72.5,yes,Giersch et al. 2017
+Lednia tumana,2017,Two Ocean Glacier 3,MT,USA,2238,NA,"48.8371, -114.0073",92.7,yes,Giersch et al. 2017
+Lednia tumana,2017,Two Ocean Glacier 4,MT,USA,2238,NA,"48.8366, -114.0072",87,yes,Giersch et al. 2017
+Lednia tumana,2011,Upper Kintla,MT,USA,1826,NA,"48.946789, -114.140164",1201,yes,"Hotaling et al., 2018"
+Lednia tumana,2017,Upper McDonald Creek 3,MT,USA,2169,NA,"48.7391, -113.7276",201,yes,Giersch et al. 2017
+Lednia tumana,2017,Upper McDonald Creek 8,MT,USA,1970,NA,"48.7091, -113.7157",538,yes,Giersch et al. 2017
+Lednia tumana,2017,Upper Olor Lake,MT,USA,2211,NA,"47.7397, -113.6519",559,yes,Giersch et al. 2017
+Lednia tumana,2017,Vulture Peak South Face,MT,USA,2380,NA,"48.8271, -114.014",33.4,yes,Giersch et al. 2017
+Lednia tumana,2017,Weasel Collar Glacier,MT,USA,1763.7,NA,"48.9003, -114.0648",28.9,yes,Giersch et al. 2017
+Lednia tumana,2017,Whitecrow Glacier East,MT,USA,1693,NA,"48.9164, -113.8227",999,yes,Giersch et al. 2017
+Lednia tumana,2017,Whitecrow Glacier West,MT,USA,1701,NA,"48.9159, -113.8247",910,yes,Giersch et al. 2017
+,,,,,,,,,,

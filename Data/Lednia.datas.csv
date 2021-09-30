@@ -1,0 +1,397 @@
+﻿Species,Present,Year,Stream,State.Prov.,Country,Elev.m,Date,GPS.Decimal.Degrees,Old.GPS.Coords,Publication,Lat,Lon
+Lednia borealis,no,2010,Deadwood Lakes 1,WA,USA,1612,28 June-20 Oct,"46.88444444, -121.51972222",,Kubo et al. 2012,46.88444444,-121.5197222
+Lednia borealis,no,2010,Deadwood Lakes 2,WA,USA,1585,28 June-20 Oct,"46.88527778, -121.52027778",,Kubo et al. 2012,46.88527778,-121.5202778
+Lednia borealis,no,2010,Deadwood Lakes 3,WA,USA,1610,28 June-20 Oct,"46.88777778, -121.52305556",,Kubo et al. 2012,46.88777778,-121.5230556
+Lednia borealis,no,2010,Snow Lakes 2,WA,USA,1425,28 June-20 Oct,"46.75611111, -121.69972222",,Kubo et al. 2012,46.75611111,-121.6997222
+Lednia borealis,no,2010,Snow Lakes 3,WA,USA,1428,28 June-20 Oct,"46.75916667, -121.69777778",,Kubo et al. 2012,46.75916667,-121.6977778
+Lednia borealis,no,2010,Owyhigh Lakes 1,WA,USA,1590,28 June-20 Oct,"46.86611111, -121.58111111",,Kubo et al. 2012,46.86611111,-121.5811111
+Lednia borealis,no,2010,Owyhigh Lakes 2,WA,USA,1585,28 June-20 Oct,"46.86638889, -121.58166667",,Kubo et al. 2012,46.86638889,-121.5816667
+Lednia borealis,no,2010,Owyhigh Lakes 3,WA,USA,1580,28 June-20 Oct,"46.86805556, -121.58472222",,Kubo et al. 2012,46.86805556,-121.5847222
+Lednia borealis,no,2007,EP-11-01 Outlet Stream,WA,USA,1209,31-Aug,"48.577,-121.145",,Turner et al. 2016,48.577,-121.145
+Lednia borealis,no,2007,Lousy Outlet Stream,WA,USA,1117,11-Sep,"48.832,-121.305",,Turner et al. 2016,48.832,-121.305
+Lednia borealis,no,2007,M-25-01 Outlet Stream,WA,USA,1602,20-Sep,"48.657,-121.501",,Turner et al. 2016,48.657,-121.501
+Lednia borealis,no,2007,Ouzel Outlet Stream,WA,USA,1728,12-Sep,"48.963,-121.264",,Turner et al. 2016,48.963,-121.264
+Lednia borealis,no,2007,Price Outlet Stream,WA,USA,1193,2-Sep,"48.857,-121.608",,Turner et al. 2016,48.857,-121.608
+Lednia borealis,no,2007,"Middle, Lower Outlet Stream",WA,USA,1707,9-Sep,"48.885,-121.350",,Turner et al. 2016,48.885,-121.35
+Lednia borealis,no,2007,"Middle, Upper Outlet Stream",WA,USA,1740,9-Sep,"48.886,-121.354",,Turner et al. 2016,48.886,-121.354
+Lednia borealis,no,2007,"Tapto, Upper Outlet Stream",WA,USA,1756,10-Sep,"48.883,-121.369",,Turner et al. 2016,48.883,-121.369
+Lednia borealis,no,2007,"Tapto, West Outlet Stream",WA,USA,1725,9-Sep,"48.883,-121.375",,Turner et al. 2016,48.883,-121.375
+Lednia borealis,no,2007,"Thornton, Upper Outlet Stream",WA,USA,1536,15-Sep,"48.690,-121.341",,Turner et al. 2016,48.69,-121.341
+Lednia sierra,no,2018,Garnet Lake Inlet,CA,USA,3062,6-Sep,"37.703183,-119.184400",,"M. Green, Unpubilshed",37.703183,-119.1844
+Lednia sierra,no,2018,Upper Ruby Lake,CA,USA,3588,12-Aug,"37.399217, -118.779355",,"M. Green, Unpubilshed",37.399217,-118.779355
+Lednia sierra,no,2019,Treasure Lakes,CA,USA,3418,18-Aug,"37.384980, -118.765074",,"M. Green, Unpubilshed",37.38498,-118.765074
+Lednia tetonica,no,2012,Holly Lake,WY,USA,2817,21-Jul,"43.792563,-110.798150",,"Hotaling et al., 2017",43.792563,-110.79815
+Lednia tetonica,no,2012,Mica Lake,WY,USA,2912,23-Jul,"43.783476,-110.844346",,"Hotaling et al., 2017",43.783476,-110.844346
+Lednia tetonica,no,2012,Lake Solitude,WY,USA,2769,23-Jul,"43.792568,-110.844359",,"Hotaling et al., 2017",43.792568,-110.844359
+Lednia tetonica,no,2012,Unnamed Lake,WY,USA,2777,29-Jul,"43.918744,-110.823735",,"Hotaling et al., 2017",43.918744,-110.823735
+Lednia tetonica,no,2012,Pass Lake,WY,USA,2874,14-Aug,"43.64359,-110.908424",,"Hotaling et al., 2017",43.64359,-110.908424
+Lednia tetonica,no,2012,Marion Lake,WY,USA,2820,14-Aug,"43.623838,-110.928770",,"Hotaling et al., 2017",43.623838,-110.92877
+Lednia tetonica,no,2012,Death High,WY,USA,2697,13-Aug,"43.64777778,-110.89916667",,Tronstad et al. 2016,43.64777778,-110.8991667
+Lednia tetonica,no,2012,Death Middle,WY,USA,2470,12-Aug,"43.66611111,-110.84138889",,Tronstad et al. 2016,43.66611111,-110.8413889
+Lednia tetonica,no,2012,Death Lower,WY,USA,2038,15-Aug,"43.65222222,-110.80638889",,Tronstad et al. 2016,43.65222222,-110.8063889
+Lednia tetonica,no,2012,Granite High,WY,USA,2703,14-Aug,"43.619333, -110.928667",,Tronstad et al. 2016,43.619333,-110.928667
+Lednia tetonica,no,2012,Granite Middle,WY,USA,2389,15-Aug,"43.616861, -110.873",,Tronstad et al. 2016,43.616861,-110.873
+Lednia tetonica,no,2012,Granite Lower,WY,USA,2031,15-Aug,"43.617639, -110.816278",,Tronstad et al. 2016,43.617639,-110.816278
+Lednia tetonica,no,2012,Owl High,WY,USA,2586,28-Jul,"43.971833, -110.843944",,Tronstad et al. 2016,43.971833,-110.843944
+Lednia tetonica,no,2012,Owl Middle,WY,USA,2356,27-Jul,"43.991472, -110.828194",,Tronstad et al. 2016,43.991472,-110.828194
+Lednia tetonica,no,2012,Owl Lower,WY,USA,2082,31-Jul,"43.998667, -110.713944",,Tronstad et al. 2016,43.998667,-110.713944
+Lednia tetonica,no,2012,Moose High,WY,USA,2764,29-Jul,"43.919944, -110.821972",,Tronstad et al. 2016,43.919944,-110.821972
+Lednia tetonica,no,2012,Moose Middle,WY,USA,2379,30-Jul,"43.9535, -110.806167",,Tronstad et al. 2016,43.9535,-110.806167
+Lednia tetonica,no,2012,Moose Lower,WY,USA,2083,31-Jul,"43.991472, -110.71775",,Tronstad et al. 2016,43.991472,-110.71775
+Lednia tetonica,no,2012,Cascade High,WY,USA,2726,23-Jul,"43.788528, -110.83425",,Tronstad et al. 2016,43.788528,-110.83425
+Lednia tetonica,no,2012,Cascade Middle,WY,USA,2391,24-Jul,"43.764222, -110.813528",,Tronstad et al. 2016,43.764222,-110.813528
+Lednia tetonica,no,2012,Cascade Lower,WY,USA,2003,24-Jul,"43.765056, -110.744667",,Tronstad et al. 2016,43.765056,-110.744667
+Lednia tetonica,no,2010,Dinwoody Below Snout,WY,USA,3390,4-Sep,n/a,,Thompson et al. 2013,n/a,
+Lednia tetonica,no,2010,Dinwoody Ck 2,WY,USA,3311,4-Sep,43.220278 -109.772222,"43°11'133""N, 109°37'560""W",Thompson et al. 2013,43.220278 -109.772222,
+Lednia tetonica,no,2010,Heap Steep Trib,WY,USA,3283,4-Sep,43.235556 -109.714167,"43°11'188""N, 109°37'351""W",Thompson et al. 2013,43.235556 -109.714167,
+Lednia tetonica,no,2010,Dinwoody CK 3,WY,USA,3064,4-Sep,43.308611 -109.846667,"43°12'391""N, 109°36'888""W",Thompson et al. 2013,43.308611 -109.846667,
+Lednia tetonica,no,2010,Dinwoody below confluence,WY,USA,3010,4-Sep,43.433611 -109.721667,"43°12'841""N, 109°36'438""W",Thompson et al. 2013,43.433611 -109.721667,
+Lednia tetonica,no,2010,Gannett snout north,WY,USA,3363,4-Sep,43.268056 -109.694444,"43°12'245""N, 109°38'220""W",Thompson et al. 2013,43.268056 -109.694444,
+Lednia tetonica,no,2010,Gannett stout south,WY,USA,3373,4-Sep,43.26 -109.684444,"43°12'216""N, 109°38'184""W",Thompson et al. 2013,43.26 -109.684444,
+Lednia tetonica,no,2010,Gannett Ck 3,WY,USA,3213,4-Sep,43.284444 -109.807222,"43°12'304""N, 109°37'686""W",Thompson et al. 2013,43.284444 -109.807222,
+Lednia tetonica,no,2010,Gannett Ck 4,WY,USA,3051,4-Sep,43.322222 -109.852778,"43°12'440""N, 109°36'910""W",Thompson et al. 2013,43.322222 -109.852778,
+Lednia tetonica,no,2017,Middle Teton (high),WY,USA,NA,5-Aug-18,,,Unpublished,,
+Lednia tetonica,no,2015,Middle Teton (low),WY,USA,2950,8-Aug-15,"43.72527, -110.99001",,Unpublished,43.72527,-110.99001
+Lednia tetonica,no,2016,Mica Lake inlet,WY,USA,2914,27-Jul-16,"43.78182, -110.84663",,Unpublished,43.78182,-110.84663
+Lednia tetonica,no,2017,Grizzly Lake inlet,WY,USA,2950,7-Aug-17,"43.79752, -110.80715",,Unpublished,43.79752,-110.80715
+Lednia tetonica,no,2017,NF Teton Creek (upper),WY,USA,2950,8-Aug-17,"43.77742, -110.85945",,Unpublished,43.77742,-110.85945
+Lednia tetonica,no,2015,NF Teton Creek (lower),WY,USA,2900,10-Aug-15,"43.77453, -110.86115",,Unpublished,43.77453,-110.86115
+Lednia tetonica,no,2016,Table Mtn #1,WY,USA,3025,5-Aug-16,"43.752,-110.859",,Unpublished,43.752,-110.859
+Lednia tetonica,no,2016,Table Mtn #2,WY,USA,3034,5-Aug-16,"43.752,-110.858",,Unpublished,43.752,-110.858
+Lednia tetonica,no,2015,Wind Cave (2015 low),WY,USA,2606,9-Aug-15,"43.66657, -110.95535",,Unpublished,43.66657,-110.95535
+Lednia tetonica,no,2016,South Cascade (2016 high),WY,USA,3162,3-Aug-16,"43.720,-110.838",,Unpublished,43.72,-110.838
+Lednia tetonica,no,2016,Death Canyon #1,WY,USA,NA,4-Aug-16,,,Unpublished,,
+Lednia tetonica,no,2016,Death Canyon #2,WY,USA,NA,4-Aug-16,,,Unpublished,,
+Lednia tetonica,no,2016,Death Canyon #3,WY,USA,NA,4-Aug-16,,,Unpublished,,
+Lednia tetonica,no,2016,Death Canyon #4 (2016 site),WY,USA,2953,4-Aug-16,"43.643,-110.887",,Unpublished,43.643,-110.887
+Lednia tetonica,no,2016,Death Canyon #5,WY,USA,NA,4-Aug-16,,,Unpublished,,
+Lednia tetonica,no,2016,Death Canyon #6,WY,USA,NA,4-Aug-16,,,Unpublished,,
+Lednia tetonica,no,2016,AK basin upper 2016 rock glacier,WY,USA,3090,2-Aug-16,"43.700,-110.841",,Unpublished,43.7,-110.841
+Lednia tetonica,no,2017,AK basin lower icy seep,WY,USA,NA,12-Aug-17,,,Unpublished,,
+Lednia tetonica,no,2016,AK basin lower site main channel (2015),WY,USA,2882,5-Aug-16,"43.69287, -110.85854",,Unpublished,43.69287,-110.85854
+Lednia tetonica,no,2017,AK basin upper site/SF Teton upper (2016),WY,USA,NA,13-Aug-17,,,Unpublished,,
+Lednia tetonica,no,2016,S. Fork Granite,WY,USA,2911,31-Jul-16,"43.583,-110.899",,Unpublished,43.583,-110.899
+Other,no,1999,Glacier Creek 1,CO,USA,3416,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Glacier Creek 2,CO,USA,3245,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Glacier Creek 5,CO,USA,3123,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Glacier Creek 9,CO,USA,2968,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Glacier Creek 16,CO,USA,2611,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. Fork Poudre 1,CO,USA,3416,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. Fork Poudre 2,CO,USA,3379,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. Fork Poudre 5,CO,USA,3264,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. Fork Poudre 9,CO,USA,2757,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. Fork Poudre 17,CO,USA,2721,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. St. Vrain 1,CO,USA,3404,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. St. Vrain 2,CO,USA,3221,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. St. Vrain 5,CO,USA,3099,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,S. St. Vrain 8,CO,USA,2855,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Poudre Trib 1,CO,USA,3416,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Poudre Trib 2,CO,USA,3257,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Poudre Trib 5,CO,USA,3096,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Poudre Trib 11,CO,USA,2980,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,1999,Poudre Trib 18,CO,USA,2965,4 Aug-19 Aug,will need to approximate,,Finn & Poff 2005,will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,2011,"Cache La Poudre, Big Thompson, St. Vrain",CO,USA,1556,27 June-10 Aug,will need to approximate,,Gill et al. (2013),will need to approximate,
+Other,no,1960,North Boulder Creek 1,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 2,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 3,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 4,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 5,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 6,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 7,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 8,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 9,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 10,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 11,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 12,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 13,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 14,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Other,no,1960,North Boulder Creek 15,CO,USA,3300,Summer,will need to approximate,,Elgmork & Saether (1970),will need to approximate,
+Lednia sierra,no/yes,NA,NA,NA,NA,NA,NA,NA,NA,"David Herbst, wiating for repsonse",NA,
+Lednia borealis,Sampled 110 sites from 1994-2001,NA,NA,"Not sure if any of this is useful...MDG: Could be if we can get site info, not publically available",NA,NA,NA,NA,NA,"Kondratieff and Lechleitner, 2002",NA,
+Lednia borealis,yes,2000,Fryingpan Creek (bridge),WA,USA,1162,16-Jul,"46.888168, -121.609862",,"Kondratieff and Lechleitner, 2002",46.888168,-121.609862
+Lednia borealis,yes,1989,Redoubt Lake,WA,USA,1615,29-Aug,"48.97380, -121.31214",,"Baumann and Kondratieff, 2010",48.9738,-121.31214
+Lednia borealis,yes,1987,Upper Bagley Lake,WA,USA,1341,30-Jul,"48.853532, -121.691577",,"Baumann and Kondratieff, 2010",48.853532,-121.691577
+Lednia borealis,yes,1989,Nert Lake,WA,USA,1389,11-Sep,"48.70487, -121.50160",,"Baumann and Kondratieff, 2010",48.70487,-121.5016
+Lednia borealis,yes,1989,No Name Lake,WA,USA,1171,24-Aug,"48.85027, -121.11291",,"Baumann and Kondratieff, 2010",48.85027,-121.11291
+Lednia borealis,yes,1989,Price Lake,WA,USA,1192,6-Sep,"48.85365, -121.60296",,"Baumann and Kondratieff, 2010",48.85365,-121.60296
+Lednia borealis,yes,1989,Middle Tapto Lake,WA,USA,1747,8-Sep,"48.88256, -121.36928",,"Baumann and Kondratieff, 2010",48.88256,-121.36928
+Lednia borealis,yes,2018,Upper Lyman 2,WA,USA,1810,11-Aug,"48.18055, -120.89793",,"Blevins/Fallon, unpublished",48.18055,-120.89793
+Lednia borealis,yes,2018,#4 White Chuck-Red Pass Fk,WA,USA,1736,18-Aug,"48.0472761, -121.159461",,"Blevins/Fallon, unpublished",48.0472761,-121.159461
+Lednia borealis,yes,2014,Colchuck Lake Inlet,WA,USA,1705,8-Aug,"47.488737, -120.837080",,"S. Hotaling, Unpublished",47.488737,-120.83708
+Lednia borealis,yes,2010,Snow Lakes 1,WA,USA,1433,"23 Aug, 25 Aug, 8 Sept","46.757046, -121.6989",,Kubo et al. 2012,46.757046,-121.6989
+Lednia sierra,yes,1985,South Fork Big Pine Creek,CA,USA,3353,27-Aug,"37.102962, -118.483304",,"Baumann and Kondratieff, 2010",37.102962,-118.483304
+Lednia sierra,yes,2010,Ruby Creek,CA,USA,3450,27-Aug,"37.41138889, -118.77027778",,"Baumann and Kondratieff, 2010",37.41138889,-118.7702778
+Lednia sierra,yes,2010,Cold Water Creek,CA,USA,3063,19-Aug,"37.574270, -118.988368",,"Baumann and Kondratieff, 2010.Presence reconfimred M. Green, unpublished July 14, 2018",37.57427,-118.988368
+Lednia sierra,yes,1986,Coness Lake inlet,CA,USA,3414,11-Aug,"37.972288, -119.314058",,"Baumann and Kondratieff, 2010",37.972288,-119.314058
+Lednia sierra,yes,2015,Sky Meadows,CA,USA,3107,2015?,"37.571604,-118.9875",,"Hotaling et al., in press",37.571604,-118.9875
+Lednia sierra,yes,2018,Marie Lakes Outlet,CA,USA,3117,6-Sep,"37.44919',-119.13825'",,"M. Green, Unpubilshed",37.44919',-119.13825'
+Lednia sierra,yes,2018,1000 Island Lakes inlet,CA,USA,3006,6-Sep,"37.42602', -119.11523'",,"M. Green, Unpubilshed",37.42602', -119.11523'
+Lednia sierra,yes,2018,Cascade Lake Inlet,CA,USA,3160,14-Sep,"37.986267, -119.307404",,"M. Green, Unpubilshed",37.986267,-119.307404
+Lednia sierra,yes,2018,Donoghue Pass-East Lyell Fork,CA,USA,3275,5-Sep,"37.45229', -119.15536'",,"M. Green, Unpubilshed",37.45229', -119.15536'
+Lednia tetonica,yes,2017,Delta Lake inlet,WY,USA,2814,5-Aug-17,"43.73327, -110.77566",,Unpublished,43.73327,-110.77566
+Lednia tetonica,yes,2015,Mica Lake outlet,WY,USA,2891,4-Aug-15,"43.78534, -11084130",,Unpublished,43.78534,-11084130
+Lednia tetonica,yes,2016,Teton Meadows #1,WY,USA,NA,27-Jul-16,,,Unpublished,,
+Lednia tetonica,yes,2016,NF Teton #2,WY,USA,2798,5-Aug-16,"43.76815, -110.86075",,Unpublished,43.76815,-110.86075
+Lednia tetonica,yes,2016,Table Mtn #3,WY,USA,3034,5-Aug-16,"43.752,-110.858",,Unpublished,43.752,-110.858
+Lednia tetonica,yes,2017,Wind Cave (2015 high),WY,USA,2621,8-Aug-17,"43.66607, -110.95602",,Unpublished,43.66607,-110.95602
+Lednia tetonica,yes,2016,Schoolroom Glacier seep,WY,USA,3044,3-Aug-16,"43.728,-110.844",,Unpublished,43.728,-110.844
+Lednia tetonica,yes,2016,South Cascade (2015 low),WY,USA,2951,4-Aug-16,"43.72856, -110.83725",,Unpublished,43.72856,-110.83725
+Lednia tetonica,yes,2017,Skillet Glacier,WY,USA,2499,9-Aug-17,,,Unpublished,,
+Lednia tetonica,yes,2016,Sunset Lake inlet,WY,USA,NA,3-Aug-16,,,Unpublished,,
+Lednia tetonica,yes,2016,AK basin site (Buck Mtn),WY,USA,NA,2-Aug-16,,,Unpublished,,
+Lednia tetonica,yes,2017,Upper Paintbrush rock glacier,WY,USA,2805,6-Aug-17,"43.78453, -110.79361",,Unpublished,43.78453,-110.79361
+Lednia tetonica,yes,2017,Upper Paintrbush pond,WY,USA,NA,7-Aug-17,,,Unpublished,,
+Lednia tetonica,yes,2017,AK Basin high (2017),WY,USA,NA,13-Aug-17,,,Unpublished,,
+Lednia tetonica,yes,2018,"""The Gusher""",WY,USA,NA,,,,Unpublished,,
+Lednia tetonica,yes,2018,Cloudveil Dome Icy Seep,WY,USA,NA,,,,Unpublished,,
+Lednia tumana,yes,1946,Many Glacier glacial strem,MT,USA,1691.64,24-Aug,n/a,,"Ricker, 1952",n/a,
+Lednia tumana,yes,1966,Logan Creek,MT,USA,NA,6-Aug,n/a,,"Gaufin et al., 1972",n/a,
+Lednia tumana,yes,1976,Bertha Brook below Bertha Lake,AB,CAN,NA,25-Aug,n/a,,"Donald and Anderson, 1977",n/a,
+Lednia tumana,yes,2011,Grant Glacier,MT,USA,1836,,"48.329269, -113.741139","48°19’45.37”, -113°44’28.10”","Hotaling et al., 2018",48.329269,-113.741139
+Lednia tumana,yes,2011,Jackson Glacier,MT,USA,2006,,"48.605547,-113.695736","48°36’19.97”, -113°41’44.65”","Hotaling et al., 2018",48.605547,-113.695736
+Lednia tumana,yes,2011,Lunch Creek,MT,USA,2192,,"48.709833,-113.704244","48°42’35.40”, -113°42’15.28”","Hotaling et al., 2018",48.709833,-113.704244
+Lednia tumana,yes,2011,Sexton Glacier (main outlet),MT,USA,1827,,"48.700411, -113.623367","48°42’1.48”, -113°37’24.12”","Hotaling et al., 2018",48.700411,-113.623367
+Lednia tumana,yes,2011,Sexton Glacier (south outlet),MT,USA,2173,,"48.699536, -113.622314","48°41’58.33”, -113°37’20.33”","Hotaling et al., 2018",48.699536,-113.622314
+Lednia tumana,yes,2011,Clements Creek,MT,USA,2045,,"48.690019, -113.733597","48°41’24.07”, -113°44’0.95”","Hotaling et al., 2018",48.690019,-113.733597
+Lednia tumana,yes,2011,Reynolds Spring,MT,USA,2082,,"48.684658, -113.726403","48°41’4.77”, -113°43’35.05”","Hotaling et al., 2018",48.684658,-113.726403
+Lednia tumana,yes,2011,Upper Kintla,MT,USA,1826,,"48.946789, -114.140164","48°56’48.44”, -114°8’24.59”","Hotaling et al., 2018",48.946789,-114.140164
+Lednia tumana,yes,2011,"Cracker Lake, inlet",MT,USA,1867,,"48.739283, -113.653331","48°44’21.42”, -113°39’11.99”","Hotaling et al., 2018",48.739283,-113.653331
+Lednia tumana,yes,2011,Swiftcurrent Glacier outlet,MT,USA,2010,,"48.7782, -113.755933","48°46’41.52”, -113°45’21.36”","Hotaling et al., 2018",48.7782,-113.755933
+Lednia tumana,yes,1997,Ahern Outlet,MT,USA,2038,,"48.819,-113.773","296429, 5411065","Muhlfeld et al., 2011",48.819,-113.773
+Lednia tumana,yes,1998,Bering Creek,MT,USA,2250,,"48.711,-113.623","307023, 5398681","Muhlfeld et al., 2011",48.711,-113.623
+Lednia tumana,yes,2010,Bering Creek,MT,USA,1770,,"48.701,-113.620","307193, 5397480","Muhlfeld et al., 2011",48.701,-113.62
+Lednia tumana,yes,2010,Bering Creek,MT,USA,1807,,"48.701,-113.620","307193, 5397480","Muhlfeld et al., 2011",48.701,-113.62
+Lednia tumana,yes,2010,Bering Creek,MT,USA,1821,,"48.701,-113.620","307193, 5397480","Muhlfeld et al., 2011",48.701,-113.62
+Lednia tumana,yes,2010,Bering Creek,MT,USA,1824,,"48.701,-113.620","307193, 5397480","Muhlfeld et al., 2011",48.701,-113.62
+Lednia tumana,yes,2010,Bering Creek,MT,USA,1842,,"48.701,-113.620","307193, 5397480","Muhlfeld et al., 2011",48.701,-113.62
+Lednia tumana,yes,2000,Bullhead lake inlet,MT,USA,1610,,"48.780,-113.743","298486, 5406641","Muhlfeld et al., 2011",48.78,-113.743
+Lednia tumana,yes,2010,Cataract Creek,MT,USA,2222,,"48.721,-113.693","301920, 5399895","Muhlfeld et al., 2011",48.721,-113.693
+Lednia tumana,yes,1998,Clements Creek,MT,USA,2168,,"48.690,-113.734","298830, 5396609","Muhlfeld et al., 2011",48.69,-113.734
+Lednia tumana,yes,1998,Clements Creek,MT,USA,2043,,"48.690,-113.734","298830, 5396609","Muhlfeld et al., 2011",48.69,-113.734
+Lednia tumana,yes,2000,Cracker Lake inlet,MT,USA,1891,,"48.738,-113.653","304915, 5401753","Muhlfeld et al., 2011",48.738,-113.653
+Lednia tumana,yes,1997,Gunsight lake inlet,MT,USA,2055,,"48.612,-113.728","298919, 5387953","Muhlfeld et al., 2011",48.612,-113.728
+Lednia tumana,yes,1998,Hidden Lake Creek,MT,USA,2165,,"48.679,-113.737","298518, 5395334","Muhlfeld et al., 2011",48.679,-113.737
+Lednia tumana,yes,2010,Hidden Lake Creek,MT,USA,2139,,"48.676,-113.753","297363, 5395114","Muhlfeld et al., 2011",48.676,-113.753
+Lednia tumana,yes,2010,Hidden Lake Creek,MT,USA,2147,,"48.676,-113.753","297363, 5395114","Muhlfeld et al., 2011",48.676,-113.753
+Lednia tumana,yes,2010,Hidden Lake Creek,MT,USA,2025,,"48.676,-113.753","297363, 5395114","Muhlfeld et al., 2011",48.676,-113.753
+Lednia tumana,yes,1998,Logan Creek,MT,USA,2051,,"48.697,-113.727","299361, 5397379","Muhlfeld et al., 2011",48.697,-113.727
+Lednia tumana,yes,1998,Logan Creek,MT,USA,2116,,"48.697,-113.727","299361, 5397379","Muhlfeld et al., 2011",48.697,-113.727
+Lednia tumana,yes,2010,Lunch Creek,MT,USA,2189,,"48.702,-113.704","301064, 5397899","Muhlfeld et al., 2011",48.702,-113.704
+Lednia tumana,yes,2010,Lake McDonald,MT,USA,1962,,"48.709,-113.841","290996, 5399053","Muhlfeld et al., 2011",48.709,-113.841
+Lednia tumana,yes,1997,Mineral Creek,MT,USA,2009,,"48.844,-113.835","292033, 5413962","Muhlfeld et al., 2011",48.844,-113.835
+Lednia tumana,yes,2005,Preston Park,MT,USA,2234,,"48.722,-113.640","305868, 5399936","Muhlfeld et al., 2011",48.722,-113.64
+Lednia tumana,yes,1997,Reynolds Spring,MT,USA,2166,,"48.688,-113.736","298639, 5396391","Muhlfeld et al., 2011",48.688,-113.736
+Lednia tumana,yes,1997,Reynolds Spring,MT,USA,2200,,"48.688,-113.736","298639, 5396391","Muhlfeld et al., 2011",48.688,-113.736
+Lednia tumana,yes,1998,Reynolds Spring,MT,USA,2074,,"48.685,-113.726","299338, 5395994","Muhlfeld et al., 2011",48.685,-113.726
+Lednia tumana,yes,1998,Reynolds Spring,MT,USA,2113,,"48.685,-113.726","299338, 5395994","Muhlfeld et al., 2011",48.685,-113.726
+Lednia tumana,yes,2000,Reynolds Spring,MT,USA,2332,,"48.703,-113.695","301753, 5397923","Muhlfeld et al., 2011",48.703,-113.695
+Lednia tumana,yes,2010,Siyeh Creek,MT,USA,1870,,"48.700,-113.671","303461, 5397601","Muhlfeld et al., 2011",48.7,-113.671
+Lednia tumana,yes,2010,Siyeh Creek,MT,USA,1948,,"48.700,-113.671","303461, 5397601","Muhlfeld et al., 2011",48.7,-113.671
+Lednia tumana,yes,2010,Siyeh Creek,MT,USA,1968,,"48.700,-113.671","303461, 5397601","Muhlfeld et al., 2011",48.7,-113.671
+Lednia tumana,yes,2010,Tunnel Creek,MT,USA,1825,,"48.329,-113.741","296837, 5356535","Muhlfeld et al., 2011",48.329,-113.741
+Lednia tumana,yes,1996-2015,Upper Olor Lake,MT,USA,2211,,"47.7397, -113.6519",,Giersch et al. 2017,47.7397,-113.6519
+Lednia tumana,yes,1996-2015,Swan Glacier,MT,USA,2008,,"47.7291, -113.6301",,Giersch et al. 2017,47.7291,-113.6301
+Lednia tumana,yes,1996-2015,Boulder Pass 1,MT,USA,2180,,"48.9652, -114.0937",,Giersch et al. 2017,48.9652,-114.0937
+Lednia tumana,yes,1996-2015,Upper McDonald Creek 3,MT,USA,2169,,"48.7391, -113.7276",,Giersch et al. 2017,48.7391,-113.7276
+Lednia tumana,yes,1996-2015,Clements Basin North,MT,USA,2201,,"48.694, -113.7335",,Giersch et al. 2017,48.694,-113.7335
+Lednia tumana,yes,1996-2015,Reynolds Moraine Seep,MT,USA,2166,,"48.6882, -113.7361",,Giersch et al. 2017,48.6882,-113.7361
+Lednia tumana,yes,1996-2015,Thunderbird Glacier 3,MT,USA,2063,,"48.9402, -114.0348",,Giersch et al. 2017,48.9402,-114.0348
+Lednia tumana,yes,1996-2015,Jackstraw Lake 2,MT,USA,2022,,"48.4142, -113.3732",,Giersch et al. 2017,48.4142,-113.3732
+Lednia tumana,yes,1996-2015,Miche Wabun Glacier 3,MT,USA,2152,,"48.9473, -113.833",,Giersch et al. 2017,48.9473,-113.833
+Lednia tumana,yes,1996-2015,Jackson Glacier far east,MT,USA,1907,,"48.6064, -113.6817",,Giersch et al. 2017,48.6064,-113.6817
+Lednia tumana,yes,1996-2015,Cataract Creek East 3,MT,USA,2134,,"48.7252, -113.6716",,Giersch et al. 2017,48.7252,-113.6716
+Lednia tumana,yes,1996-2015,Boulder Pass 2,MT,USA,2248,,"48.9626, -114.0969",,Giersch et al. 2017,48.9626,-114.0969
+Lednia tumana,yes,1996-2015,Piegan Spring,MT,USA,2375,,"48.7032, -113.694",,Giersch et al. 2017,48.7032,-113.694
+Lednia tumana,yes,1996-2015,Piegan Spring,MT,USA,2354,,"48.703, -113.6943",,Giersch et al. 2017,48.703,-113.6943
+Lednia tumana,yes,1996-2015,Piegan Spring,MT,USA,2325,,"48.7028, -113.6946",,Giersch et al. 2017,48.7028,-113.6946
+Lednia tumana,yes,1996-2015,Upper McDonald Creek 8,MT,USA,1970,,"48.7091, -113.7157",,Giersch et al. 2017,48.7091,-113.7157
+Lednia tumana,yes,1996-2015,Hidden Lake West 1,MT,USA,2026,,"48.6757, -113.7522",,Giersch et al. 2017,48.6757,-113.7522
+Lednia tumana,yes,1996-2015,Boulder Pass 3,MT,USA,2177,,"48.965, -114.0943",,Giersch et al. 2017,48.965,-114.0943
+Lednia tumana,yes,1996-2015,Hole-in-the-Wall 4,MT,USA,2162,,"48.9725, -114.0674",,Giersch et al. 2017,48.9725,-114.0674
+Lednia tumana,yes,1996-2015,Triple Divide Pass 3,MT,USA,2029,,"48.5823, -113.5306",,Giersch et al. 2017,48.5823,-113.5306
+Lednia tumana,yes,1996-2015,Thunderbird Glacier 2,MT,USA,2049,,"48.9417, -114.0363",,Giersch et al. 2017,48.9417,-114.0363
+Lednia tumana,yes,1996-2015,Piegan Spring,MT,USA,2269,,"48.7021, -113.6952",,Giersch et al. 2017,48.7021,-113.6952
+Lednia tumana,yes,1996-2015,Hole-in-the-Wall 4,MT,USA,2105,,"48.9711, -114.0686",,Giersch et al. 2017,48.9711,-114.0686
+Lednia tumana,yes,1996-2015,Piegan Spring,MT,USA,2217,,"48.7015, -113.6959",,Giersch et al. 2017,48.7015,-113.6959
+Lednia tumana,yes,1996-2015,Chaney Glacier seep,MT,USA,2169,,"48.8548, -113.8257",,Giersch et al. 2017,48.8548,-113.8257
+Lednia tumana,yes,1996-2015,Jackson Glacier 1,MT,USA,2033,,"48.6049, -113.6976",,Giersch et al. 2017,48.6049,-113.6976
+Lednia tumana,yes,1996-2015,Miche Wabun Glacier 2,MT,USA,2092,,"48.9478, -113.8381",,Giersch et al. 2017,48.9478,-113.8381
+Lednia tumana,yes,1996-2015,Appistoki Upper Basin Side Seep,MT,USA,2095,,"48.4587, -113.3489",,Giersch et al. 2017,48.4587,-113.3489
+Lednia tumana,yes,1996-2015,No Name Lake 2,MT,USA,2076,,"48.4859, -113.4658",,Giersch et al. 2017,48.4859,-113.4658
+Lednia tumana,yes,1996-2015,Morningstar,MT,USA,2137,,"48.5503, -113.4661",,Giersch et al. 2017,48.5503,-113.4661
+Lednia tumana,yes,1996-2015,Logan Creek Upper North,MT,USA,2131,,"48.6977, -113.7333",,Giersch et al. 2017,48.6977,-113.7333
+Lednia tumana,yes,1996-2015,Boulder Glacier,MT,USA,2224,,"48.9607, -114.0845",,Giersch et al. 2017,48.9607,-114.0845
+Lednia tumana,yes,1996-2015,Reynolds Creek West 1,MT,USA,2117,,"48.6873, -113.733",,Giersch et al. 2017,48.6873,-113.733
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2285,,"48.7099, -113.7043",,Giersch et al. 2017,48.7099,-113.7043
+Lednia tumana,yes,1996-2015,Two Ocean Glacier 3,MT,USA,2238,,"48.8371, -114.0073",,Giersch et al. 2017,48.8371,-114.0073
+Lednia tumana,yes,1996-2015,Reynolds Creek,MT,USA,2167,,"48.6901, -113.7335",,Giersch et al. 2017,48.6901,-113.7335
+Lednia tumana,yes,1996-2015,Reynolds Creek West 1,MT,USA,2079,,"48.6871, -113.7317",,Giersch et al. 2017,48.6871,-113.7317
+Lednia tumana,yes,1996-2015,Thunderbird Glacier 5,MT,USA,2130,,"48.937, -114.0388",,Giersch et al. 2017,48.937,-114.0388
+Lednia tumana,yes,1996-2015,Sexton Glacier North,MT,USA,2248,,"48.7113, -113.6234",,Giersch et al. 2017,48.7113,-113.6234
+Lednia tumana,yes,1996-2015,Medicine Grizzly Lake,MT,USA,2176,,"48.5627, -113.506",,Giersch et al. 2017,48.5627,-113.506
+Lednia tumana,yes,1996-2015,Thunderbird Glacier 1,MT,USA,1982,,"48.9447, -114.0373",,Giersch et al. 2017,48.9447,-114.0373
+Lednia tumana,yes,1996-2015,Birdwoman West,MT,USA,2058,,"48.6965, -113.7577",,Giersch et al. 2017,48.6965,-113.7577
+Lednia tumana,yes,1996-2015,Reynolds Creek Spring,MT,USA,2150,,"48.6826, -113.7305",,Giersch et al. 2017,48.6826,-113.7305
+Lednia tumana,yes,1996-2015,Siyeh Creek West,MT,USA,1875,,"48.7004, -113.6712",,Giersch et al. 2017,48.7004,-113.6712
+Lednia tumana,yes,1996-2015,Jackson Glacier 2,MT,USA,2058,,"48.6034, -113.6976",,Giersch et al. 2017,48.6034,-113.6976
+Lednia tumana,yes,1996-2015,Siyeh Creek West,MT,USA,1811,,"48.7002, -113.6697",,Giersch et al. 2017,48.7002,-113.6697
+Lednia tumana,yes,1996-2015,Swiftcurrent Glacier 1,MT,USA,2009,,"48.7783, -113.756",,Giersch et al. 2017,48.7783,-113.756
+Lednia tumana,yes,1996-2015,Reynolds Mt. South Face 1,MT,USA,2257,,"48.6657, -113.7285",,Giersch et al. 2017,48.6657,-113.7285
+Lednia tumana,yes,1996-2015,Two Ocean Glacier 1,MT,USA,2279,,"48.8428, -114.0155",,Giersch et al. 2017,48.8428,-114.0155
+Lednia tumana,yes,1996-2015,Preston Park,MT,USA,2257,,"48.7233, -113.6399",,Giersch et al. 2017,48.7233,-113.6399
+Lednia tumana,yes,1996-2015,Rising Wolf North Face,MT,USA,1968,,"48.5025, -113.4057",,Giersch et al. 2017,48.5025,-113.4057
+Lednia tumana,yes,1996-2015,Preston Park West 1,MT,USA,2282,,"48.721, -113.6435",,Giersch et al. 2017,48.721,-113.6435
+Lednia tumana,yes,1996-2015,Lunch Creek High East,MT,USA,2162,,"48.7059, -113.704",,Giersch et al. 2017,48.7059,-113.704
+Lednia tumana,yes,1996-2015,Miche Wabun Glacier 4,MT,USA,2149,,"48.9476, -113.8296",,Giersch et al. 2017,48.9476,-113.8296
+Lednia tumana,yes,1996-2015,Two Ocean Glacier 2,MT,USA,2375,,"48.8383, -114.012",,Giersch et al. 2017,48.8383,-114.012
+Lednia tumana,yes,1996-2015,Sue Lake East,MT,USA,2183,,"48.8618, -113.8403",,Giersch et al. 2017,48.8618,-113.8403
+Lednia tumana,yes,1996-2015,Hole-in-the-Wall 5,MT,USA,2082,,"48.97, -114.0659",,Giersch et al. 2017,48.97,-114.0659
+Lednia tumana,yes,1996-2015,Two Ocean Glacier 2,MT,USA,2247,,"48.8379, -114.0075",,Giersch et al. 2017,48.8379,-114.0075
+Lednia tumana,yes,1996-2015,Heavens Peak Ridge 2,MT,USA,1830,,"48.7412, -113.854",,Giersch et al. 2017,48.7412,-113.854
+Lednia tumana,yes,1996-2015,Mineral Creek,MT,USA,2004,,"48.8438, -113.8347",,Giersch et al. 2017,48.8438,-113.8347
+Lednia tumana,yes,1996-2015,Boulder Glacier,MT,USA,2281,,"48.9608, -114.0909",,Giersch et al. 2017,48.9608,-114.0909
+Lednia tumana,yes,1996-2015,Grinnell Glacier North 2,MT,USA,1822,,"48.774, -113.7131",,Giersch et al. 2017,48.774,-113.7131
+Lednia tumana,yes,1996-2015,Hole-in-the-Wall 2,MT,USA,2172,,"48.9664, -114.0752",,Giersch et al. 2017,48.9664,-114.0752
+Lednia tumana,yes,1996-2015,Buttercup Park upper far West,MT,USA,1865,,"48.422, -113.3876",,Giersch et al. 2017,48.422,-113.3876
+Lednia tumana,yes,1996-2015,Miche Wabun Glacier 4,MT,USA,2081,,"48.9492, -113.8295",,Giersch et al. 2017,48.9492,-113.8295
+Lednia tumana,yes,1996-2015,Triple Divide Pass 4,MT,USA,1992,,"48.5847, -113.5368",,Giersch et al. 2017,48.5847,-113.5368
+Lednia tumana,yes,1996-2015,Sexton Glacier South,MT,USA,1824,,"48.6996, -113.6224",,Giersch et al. 2017,48.6996,-113.6224
+Lednia tumana,yes,1996-2015,Lake Ellen Wilson South,MT,USA,2053,,"48.6073, -113.738",,Giersch et al. 2017,48.6073,-113.738
+Lednia tumana,yes,1996-2015,Heavens Peak East,MT,USA,1960,,"48.7094, -113.8412",,Giersch et al. 2017,48.7094,-113.8412
+Lednia tumana,yes,1996-2015,Hidden Lake West 3,MT,USA,2135,,"48.6653, -113.7548",,Giersch et al. 2017,48.6653,-113.7548
+Lednia tumana,yes,1996-2015,Swiftcurrent Glacier 2,MT,USA,2029,,"48.7773, -113.7558",,Giersch et al. 2017,48.7773,-113.7558
+Lednia tumana,yes,1996-2015,Mt. James 3,MT,USA,2170,,"48.5934, -113.4853",,Giersch et al. 2017,48.5934,-113.4853
+Lednia tumana,yes,1996-2015,Gunsight Lake 1,MT,USA,2041,,"48.6118, -113.73",,Giersch et al. 2017,48.6118,-113.73
+Lednia tumana,yes,1996-2015,Logging Saddle 2,MT,USA,1928,,"48.8274, -113.9855",,Giersch et al. 2017,48.8274,-113.9855
+Lednia tumana,yes,1996-2015,Reynolds Mt. South Face 1,MT,USA,2233,,"48.6644, -113.7271",,Giersch et al. 2017,48.6644,-113.7271
+Lednia tumana,yes,1996-2015,Triple Divide Pass 5,MT,USA,1987,,"48.5847, -113.5359",,Giersch et al. 2017,48.5847,-113.5359
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2184,,"48.7068, -113.7042",,Giersch et al. 2017,48.7068,-113.7042
+Lednia tumana,yes,1996-2015,Reynolds Creek,MT,USA,2050,,"48.6881, -113.7294",,Giersch et al. 2017,48.6881,-113.7294
+Lednia tumana,yes,1996-2015,Two Ocean Glacier 4,MT,USA,2238,,"48.8366, -114.0072",,Giersch et al. 2017,48.8366,-114.0072
+Lednia tumana,yes,1996-2015,Piegan Glacier 2,MT,USA,1909,,"48.7119, -113.6744",,Giersch et al. 2017,48.7119,-113.6744
+Lednia tumana,yes,1996-2015,Shepard Glacier,MT,USA,2188,,"48.8652, -113.8568",,Giersch et al. 2017,48.8652,-113.8568
+Lednia tumana,yes,1996-2015,Boulder Creek,MT,USA,2162,,"48.7195, -113.6205",,Giersch et al. 2017,48.7195,-113.6205
+Lednia tumana,yes,1996-2015,Boulder Glacier 1,MT,USA,2262,,"48.9608, -114.0877",,Giersch et al. 2017,48.9608,-114.0877
+Lednia tumana,yes,1996-2015,Sperry Glacier 6,MT,USA,2263,,"48.6283, -113.7673",,Giersch et al. 2017,48.6283,-113.7673
+Lednia tumana,yes,1996-2015,Sperry Glacier 5,MT,USA,2237,,"48.6328, -113.7681",,Giersch et al. 2017,48.6328,-113.7681
+Lednia tumana,yes,1996-2015,Hidden Lake West 4,MT,USA,2140,,"48.6613, -113.7529",,Giersch et al. 2017,48.6613,-113.7529
+Lednia tumana,yes,1996-2015,Hole-in-the-Wall 4,MT,USA,1942,,"48.9666, -114.0679",,Giersch et al. 2017,48.9666,-114.0679
+Lednia tumana,yes,1996-2015,Logging Saddle 3,MT,USA,1885,,"48.8245, -113.9863",,Giersch et al. 2017,48.8245,-113.9863
+Lednia tumana,yes,1996-2015,Logan Creek Spring,MT,USA,2116,,"48.6984, -113.7313",,Giersch et al. 2017,48.6984,-113.7313
+Lednia tumana,yes,1996-2015,No Name Lake 1,MT,USA,2009,,"48.4842, -113.4634",,Giersch et al. 2017,48.4842,-113.4634
+Lednia tumana,yes,1996-2015,Twin Lakes,MT,USA,2051,,"48.6439, -113.7393",,Giersch et al. 2017,48.6439,-113.7393
+Lednia tumana,yes,1996-2015,Swiftcurrent Glacier 4,MT,USA,2094,,"48.7818, -113.758",,Giersch et al. 2017,48.7818,-113.758
+Lednia tumana,yes,1996-2015,Logan Creek Spring,MT,USA,2104,,"48.698, -113.7293",,Giersch et al. 2017,48.698,-113.7293
+Lednia tumana,yes,1996-2015,Gunsight Lake 3,MT,USA,1913,,"48.6152, -113.7236",,Giersch et al. 2017,48.6152,-113.7236
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2169,,"48.7062, -113.7043",,Giersch et al. 2017,48.7062,-113.7043
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2156,,"48.7058, -113.7044",,Giersch et al. 2017,48.7058,-113.7044
+Lednia tumana,yes,1996-2015,Birdwoman East,MT,USA,1933,,"48.6991, -113.7473",,Giersch et al. 2017,48.6991,-113.7473
+Lednia tumana,yes,1996-2015,Reynolds Creek West 1,MT,USA,2038,,"48.6873, -113.7277",,Giersch et al. 2017,48.6873,-113.7277
+Lednia tumana,yes,1996-2015,Lake Ellen Wilson South,MT,USA,1848,,"48.6067, -113.7449",,Giersch et al. 2017,48.6067,-113.7449
+Lednia tumana,yes,1996-2015,Whitecrow Glacier West,MT,USA,1701,,"48.9159, -113.8247",,Giersch et al. 2017,48.9159,-113.8247
+Lednia tumana,yes,1996-2015,Gunsight Lake 2,MT,USA,2050,,"48.612, -113.7287",,Giersch et al. 2017,48.612,-113.7287
+Lednia tumana,yes,1996-2015,Siyeh Glacier West,MT,USA,1916,,"48.7381, -113.6543",,Giersch et al. 2017,48.7381,-113.6543
+Lednia tumana,yes,1996-2015,Siyeh Glacier West,MT,USA,1862,,"48.7393, -113.6533",,Giersch et al. 2017,48.7393,-113.6533
+Lednia tumana,yes,1996-2015,Logan Creek Spring,MT,USA,2051,,"48.6971, -113.7268",,Giersch et al. 2017,48.6971,-113.7268
+Lednia tumana,yes,1996-2015,Cataract Creek West,MT,USA,1619,,"48.7425, -113.7001",,Giersch et al. 2017,48.7425,-113.7001
+Lednia tumana,yes,1996-2015,Ahern Pass,MT,USA,2038,,"48.8192, -113.7732",,Giersch et al. 2017,48.8192,-113.7732
+Lednia tumana,yes,1996-2015,Rising Wolf South Face,MT,USA,2023,,"48.4889, -113.4087",,Giersch et al. 2017,48.4889,-113.4087
+Lednia tumana,yes,1996-2015,Logan Creek Spring,MT,USA,1979,,"48.6994, -113.7237",,Giersch et al. 2017,48.6994,-113.7237
+Lednia tumana,yes,1996-2015,Appistoki Creek,MT,USA,2095,,"48.4588, -113.3489",,Giersch et al. 2017,48.4588,-113.3489
+Lednia tumana,yes,1996-2015,Boulder Glacier,MT,USA,2212,,"48.9617, -114.083",,Giersch et al. 2017,48.9617,-114.083
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2139,,"48.7052, -113.7043",,Giersch et al. 2017,48.7052,-113.7043
+Lednia tumana,yes,1996-2015,Shepard Glacier,MT,USA,1937,,"48.8685, -113.8503",,Giersch et al. 2017,48.8685,-113.8503
+Lednia tumana,yes,1996-2015,Agassiz Glacier East,MT,USA,1835,,"48.9459, -114.1401",,Giersch et al. 2017,48.9459,-114.1401
+Lednia tumana,yes,1996-2015,Vulture Peak South Face,MT,USA,2425,,"48.8271, -114.014",,Giersch et al. 2017,48.8271,-114.014
+Lednia tumana,yes,1996-2015,Vulture Peak South Face,MT,USA,2382,,"48.8262, -114.0138",,Giersch et al. 2017,48.8262,-114.0138
+Lednia tumana,yes,1996-2015,Thunderbird Glacier 4,MT,USA,2067,,"48.9386, -114.0343",,Giersch et al. 2017,48.9386,-114.0343
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2082,,"48.7045, -113.704",,Giersch et al. 2017,48.7045,-113.704
+Lednia tumana,yes,1996-2015,Blackfoot Glacier Far East,MT,USA,2039,,"48.6019, -113.6603",,Giersch et al. 2017,48.6019,-113.6603
+Lednia tumana,yes,1996-2015,Vulture Peak South Face,MT,USA,2333,,"48.8254, -114.013",,Giersch et al. 2017,48.8254,-114.013
+Lednia tumana,yes,1996-2015,Lake Ellen Wilson North,MT,USA,1908,,"48.6071, -113.7573",,Giersch et al. 2017,48.6071,-113.7573
+Lednia tumana,yes,1996-2015,Birdwoman West,MT,USA,1974,,"48.6983, -113.7522",,Giersch et al. 2017,48.6983,-113.7522
+Lednia tumana,yes,1996-2015,Siyeh Glacier,MT,USA,1908,,"48.7378, -113.6538",,Giersch et al. 2017,48.7378,-113.6538
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1996,,"48.7003, -113.6282",,Giersch et al. 2017,48.7003,-113.6282
+Lednia tumana,yes,1996-2015,Siyeh Glacier,MT,USA,1857,,"48.739, -113.6524",,Giersch et al. 2017,48.739,-113.6524
+Lednia tumana,yes,1996-2015,Siyeh Glacier,MT,USA,1832,,"48.7393, -113.6509",,Giersch et al. 2017,48.7393,-113.6509
+Lednia tumana,yes,1996-2015,Mt. James 2,MT,USA,2145,,"48.5886, -113.4827",,Giersch et al. 2017,48.5886,-113.4827
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1934,,"48.7003, -113.6265",,Giersch et al. 2017,48.7003,-113.6265
+Lednia tumana,yes,1996-2015,Rising Wolf South Face,MT,USA,1923,,"48.4868, -113.4052",,Giersch et al. 2017,48.4868,-113.4052
+Lednia tumana,yes,1996-2015,Cattle Queen Creek,MT,USA,1968,,"48.8343, -113.7964",,Giersch et al. 2017,48.8343,-113.7964
+Lednia tumana,yes,1996-2015,Sperry Glacier 3,MT,USA,2248,,"48.6312, -113.7609",,Giersch et al. 2017,48.6312,-113.7609
+Lednia tumana,yes,1996-2015,Boulder Glacier,MT,USA,2207,,"48.9614, -114.0814",,Giersch et al. 2017,48.9614,-114.0814
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1838,,"48.7005, -113.6232",,Giersch et al. 2017,48.7005,-113.6232
+Lednia tumana,yes,1996-2015,Piegan Pass High,MT,USA,2217,,"48.7206, -113.6934",,Giersch et al. 2017,48.7206,-113.6934
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1772,,"48.7006, -113.6205",,Giersch et al. 2017,48.7006,-113.6205
+Lednia tumana,yes,1996-2015,Blackfoot Glacier,MT,USA,2008,,"48.6023, -113.6667",,Giersch et al. 2017,48.6023,-113.6667
+Lednia tumana,yes,1996-2015,Boulder Glacier,MT,USA,2196,,"48.9604, -114.0802",,Giersch et al. 2017,48.9604,-114.0802
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1725,,"48.7003, -113.6192",,Giersch et al. 2017,48.7003,-113.6192
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,2019,,"48.7027, -113.7036",,Giersch et al. 2017,48.7027,-113.7036
+Lednia tumana,yes,1996-2015,Piegan Pass High,MT,USA,2082,,"48.7234, -113.6922",,Giersch et al. 2017,48.7234,-113.6922
+Lednia tumana,yes,1996-2015,Boulder Creek,MT,USA,2087,,"48.7222, -113.6194",,Giersch et al. 2017,48.7222,-113.6194
+Lednia tumana,yes,1996-2015,Cataract Creek,MT,USA,1922,,"48.729, -113.6982",,Giersch et al. 2017,48.729,-113.6982
+Lednia tumana,yes,1996-2015,Blackfoot Glacier,MT,USA,1973,,"48.6044, -113.6684",,Giersch et al. 2017,48.6044,-113.6684
+Lednia tumana,yes,1996-2015,Blackfoot Glacier,MT,USA,1963,,"48.6059, -113.6695",,Giersch et al. 2017,48.6059,-113.6695
+Lednia tumana,yes,1996-2015,Old Sun Glacier Pond,MT,USA,1689,,"48.8598, -113.774",,Giersch et al. 2017,48.8598,-113.774
+Lednia tumana,yes,1996-2015,Old Sun Glacier Pond,MT,USA,1658,,"48.8591, -113.7718",,Giersch et al. 2017,48.8591,-113.7718
+Lednia tumana,yes,1996-2015,Siyeh Glacier Far West,MT,USA,1843,,"48.7423, -113.6516",,Giersch et al. 2017,48.7423,-113.6516
+Lednia tumana,yes,1996-2015,Sperry Glacier 6,MT,USA,2213,,"48.6314, -113.7747",,Giersch et al. 2017,48.6314,-113.7747
+Lednia tumana,yes,1996-2015,Cattle Queen Creek,MT,USA,1845,,"48.8322, -113.799",,Giersch et al. 2017,48.8322,-113.799
+Lednia tumana,yes,1996-2015,Lunch Creek,MT,USA,1962,,"48.7, -113.7037",,Giersch et al. 2017,48.7,-113.7037
+Lednia tumana,yes,1996-2015,Weasel Collar Glacier,MT,USA,1967,,"48.9003, -114.0648",,Giersch et al. 2017,48.9003,-114.0648
+Lednia tumana,yes,1996-2015,Red Eagle Meadows,MT,USA,1944,,"48.5879, -113.6029",,Giersch et al. 2017,48.5879,-113.6029
+Lednia tumana,yes,1996-2015,Weasel Collar Glacier,MT,USA,1845,,"48.9035, -114.0642",,Giersch et al. 2017,48.9035,-114.0642
+Lednia tumana,yes,1996-2015,Jackson Glacier 3,MT,USA,1905,,"48.6043, -113.6915",,Giersch et al. 2017,48.6043,-113.6915
+Lednia tumana,yes,1996-2015,Swiftcurrent Glacier 3,MT,USA,1635,,"48.778, -113.7461",,Giersch et al. 2017,48.778,-113.7461
+Lednia tumana,yes,1996-2015,Whitecrow Glacier East,MT,USA,1693,,"48.9164, -113.8227",,Giersch et al. 2017,48.9164,-113.8227
+Lednia tumana,yes,1996-2015,Cataract Creek,MT,USA,1892,,"48.7302, -113.6964",,Giersch et al. 2017,48.7302,-113.6964
+Lednia tumana,yes,1996-2015,Grinnell Glacier,MT,USA,1950,,"48.7566, -113.7247",,Giersch et al. 2017,48.7566,-113.7247
+Lednia tumana,yes,1996-2015,Grinnell Glacier,MT,USA,1944,,"48.7574, -113.7248",,Giersch et al. 2017,48.7574,-113.7248
+Lednia tumana,yes,1996-2015,Grinnell Glacier,MT,USA,1934,,"48.7586, -113.7249",,Giersch et al. 2017,48.7586,-113.7249
+Lednia tumana,yes,1996-2015,Grinnell Glacier,MT,USA,1900,,"48.7604, -113.7246",,Giersch et al. 2017,48.7604,-113.7246
+Lednia tumana,yes,1996-2015,Grinnell Glacier,MT,USA,1828,,"48.7626, -113.7212",,Giersch et al. 2017,48.7626,-113.7212
+Lednia tumana,yes,1996-2015,Swiftcurrent Glacier 3,MT,USA,1609,,"48.78, -113.7432",,Giersch et al. 2017,48.78,-113.7432
+Lednia tumana,yes,1996-2015,Weasel Collar Glacier,MT,USA,1479,,"48.9106, -114.0648",,Giersch et al. 2017,48.9106,-114.0648
+Lednia tumana,yes,1996-2015,Jackson Glacier 3,MT,USA,1771,,"48.6085, -113.6882",,Giersch et al. 2017,48.6085,-113.6882
+Lednia tumana,yes,1996-2015,Rainbow Glacier,MT,USA,1425,,"48.8738, -114.0602",,Giersch et al. 2017,48.8738,-114.0602
+Lednia tumana,yes,1996-2015,Agassiz Glacier Main,MT,USA,1933,,"48.9436, -114.1417",,Giersch et al. 2017,48.9436,-114.1417
+Lednia tumana,yes,1996-2015,Agassiz Glacier Main,MT,USA,1821,,"48.947, -114.1403",,Giersch et al. 2017,48.947,-114.1403
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1691,,"48.6972, -113.6168",,Giersch et al. 2017,48.6972,-113.6168
+Lednia tumana,yes,1996-2015,Old Sun Glacier,MT,USA,1613,,"48.8581, -113.7676",,Giersch et al. 2017,48.8581,-113.7676
+Lednia tumana,yes,1996-2015,Sexton Glacier,MT,USA,1680,,"48.6958, -113.6158",,Giersch et al. 2017,48.6958,-113.6158
+Lednia tumana,yes,1996-2015,Old Sun Glacier,MT,USA,1583,,"48.8564, -113.7628",,Giersch et al. 2017,48.8564,-113.7628
+Lednia tumana,yes,1996-2015,Piegan Glacier 2,MT,USA,1971,,"48.7107, -113.6756",,Giersch et al. 2017,48.7107,-113.6756
+Lednia tumana,yes,1996-2015,Tunnel Creek,MT,USA,1632,,"48.3309, -113.7374",,Giersch et al. 2017,48.3309,-113.7374
+Lednia tumana,yes,1996-2015,Tunnel Creek,MT,USA,1357,,"48.3339, -113.7284",,Giersch et al. 2017,48.3339,-113.7284
+Lednia tumana,yes,1996-2015,McDonald Peak South Face,MT,USA,2544,,"47.3754, -113.9212",,Giersch et al. 2017,47.3754,-113.9212
+Lednia tumana,yes,1996-2015,Bearhat Mtn./Hidden Lk.,MT,USA,1952,,"48.66501, -113.74906",,"Hotaling et al., in press",48.66501,-113.74906
+Lednia tumana,yes,,Grant Glacier,MT,USA,1613,,"48.33141, -113.73687",,"Hotaling et al., in press",48.33141,-113.73687
+Lednia tumana,yes,,Heavens Peak,MT,USA,2024,,"48.71022, -113.84266",,"Hotaling et al., in press",48.71022,-113.84266
+Lednia tumana,yes,,Lunch Creek,MT,USA,2150,,"48.70524, -113.70455",,"Hotaling et al., in press",48.70524,-113.70455
+Lednia tumana,yes,,Sexton Glacier,MT,USA,1995,,"48.7003, -113.62808",,"Hotaling et al., in press",48.7003,-113.62808
+Lednia tumana,yes,,Siyeh Bend,MT,USA,1943,,"48.71149, -113.67512",,"Hotaling et al., in press",48.71149,-113.67512
