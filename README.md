@@ -1,2 +1,2 @@
 # Lednia
-Lednia Reviewer Paper Anlysis
+Lednia Review Paper Analysis
