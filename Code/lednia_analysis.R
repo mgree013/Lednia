@@ -10,6 +10,9 @@ library(cowplot)
 ######################################################
 
 data<-read.csv("Data/Lednia.analysis.csv")
+newer_dataz<-read.csv("Data/new_dataz.csv")
+new_data<-read.csv("Data/lednia_new_data.csv")
+
 ######################################################
 
 #Figure 4:
@@ -47,9 +50,10 @@ elev.genus<-data%>%
         panel.border = element_rect(colour = "black"))+
   theme(legend.position = "none")
 
-
+#plot both figs
 plot_grid(elev.sp,dist.sp)
 
+#Stats
 elev.anova<-aov(Elev.m~Species, data=data)
 summary(elev.anova)
 TukeyHSD(elev.anova)
@@ -61,31 +65,8 @@ summary(dist.anova)
 TukeyHSD(dist.anova)
 
 ##########################################################################################
-#Figure 3
-time.pops<-data%>%
-  filter(Species !="Lednia tumana")%>%
-  group_by(Year)%>%
-  add_column(Pops=1)%>%
-  transmute(number.pops=sum(Pops))
-  
-time.pops%>%
-  ggplot(aes(x=Year)) + 
-  geom_bar()
-
-time.pops%>%
-  ggplot(aes(x=Year,y=number.pops)) + 
-  geom_point()+
-  ylab("Elevation (m)")+ theme_bw()+
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(),
-        panel.border = element_rect(colour = "black"))+
-  theme(legend.position = "none")
-  
-  ########################################################################################################################  
-#Population discovery
-  
+#Figure 3: Population discovery
 #by species
-new_data<-read.csv("Data/lednia_new_data.csv")
 
 new_dataz<-new_data%>%
   add_column(number=1)%>%
@@ -103,7 +84,6 @@ new_dataz%>%
   geom_line()
 
 #write.csv(new_dataz, "new_dataz.csv")  
-newer_dataz<-read.csv("Data/new_dataz.csv")
 
 newer_dataz%>%
   ggplot(aes(x=Year, y=new.pops, colour=Species))+
@@ -115,12 +95,4 @@ newer_dataz%>%
         panel.grid.minor = element_blank(),
         panel.border = element_rect(colour = "black"))
 
-#all lednia
 
-new_datazz<-new_data%>%
-  add_column(number=1)%>%
-  summarise(number.pops=sum(number))%>%
-  ungroup()%>%
-  drop_na()
-
-write.csv(new_datazz, "new_datazx.csv") 
