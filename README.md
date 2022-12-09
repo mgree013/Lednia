@@ -17,3 +17,18 @@ Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah,
 
 ### Fig 1: Figure of Experimental Setup
 ![](Images/Picture1.png)
+
+### Fig 2: 
+![](Images/Picture2.png)
+
+### Fig 3: 
+![](Images/Picture3.png)
+
+### Fig 4: 
+![](Images/Picture4.png)
+
+### Fig 5: 
+![](Images/Picture5.png)
+
+### Fig 6: 
+![](Images/Picture6.png)
