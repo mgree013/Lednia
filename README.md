@@ -7,13 +7,7 @@ https://link.springer.com/article/10.1007/s10531-021-02344-y
 
 Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah, Candace E. Fallon, Emilie Blevins, Taylor R. Kai, Clint C. Muhlfeld, Debra S. Finn & Scott Hotaling
 
-# Structure of Code
-
-
-# Methods
-
-### Photo of Experimental Setup
-![](Images/Picture0.png)
+# Results
 
 ### Fig 1: Examples of Lednia and the high-elevation habitats they reside in. a–c Nymphs and adults across species (a Lednia tetonica, b–c Lednia tumana). d A snowmelt-fed stream, Rock Creek, in the high Sierra Nevada, California, USA, hosts a population of Lednia sierra. e A stream fed by subterranean ice emanat-ing from Wind Cave in the Teton Range, Wyoming, USA, and the type locality for L. tetonica. f A snow-melt-fed stream in Glacier National Park, Montana, USA containing L. tumana.  g A researcher collecting Lednia borealis adults emerging from a meltwater seep on the margins of the Sholes Glacier, Washington, USA. h A meltwater pond unoﬃcially referred to as “Tetonica Pond” where a population of L. tetonica resides in Grand Teton National Park, Wyoming, USA. i A meltwater stream emerging from the Sexton Glacier (center of the photo) in Glacier National Park, Montana, USA. Despite harsh conditions, L. tumana are dominant members of the non-Dipteran aquatic invertebrate community in this stream (Giersch etal. 2017). Photos by: a–c Joe Giersch, d Matthew Green, e, f, h, i Scott Hotaling, and g Emilie Blevins.
 
