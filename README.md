@@ -30,5 +30,5 @@ Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah,
 ### Fig 5: 
 ![](Images/Picture5.png)
 
-### Fig 6: 
+### Fig 6: Critical thermal maximum (CTMAX) for a L. tetonica, L. tumana, and Zapada sp. And b L. teton-ica only (grouped by stream type). Supercooling points of c Lednia tetonica, Lednia tumana, and another alpine stoneﬂy, Zapada sp. And d L. tetonica only (grouped by stream type). Lower-case letters within plots indicate signiﬁcant diﬀerences between groups at P < 0.05. Data re-plotted from Hotaling etal. (2020b) and Hotaling etal. (2021a, b)
 ![](Images/Picture6.png)
