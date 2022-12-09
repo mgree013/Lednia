@@ -19,10 +19,10 @@ Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah,
 ![](Images/Picture3.png)
 
 ### Fig 4: Variation in a elevation and b distance to  source across Lednia species. Complete methods and results for these ﬁgures are provided in Supporting Information and Tables S2–S3, respectively. Approxi-mate treeline in (a) was visually estimated using Google Earth imagery.
-![](Images/Picture2.png)
-
-### Fig 5: A re-analysis of sequence data included in Hotaling etal. (2019b) with new samples of Lednia bore-alis added (see Supporting Information). a Cytochrome oxidase c subunit I (COI) haplotype network of all available Lednia sequences. Colored circles represent haplotypes and N indicates the number of substitution steps (i.e., one nucleotide diﬀerence) between haplotypes. b COI gene trees for all Lednia sequences. Ter-minal nodes for everything except L. borealis (the new sequences included in this study) were compressed into triangles and scaled according to the number of sequences. Numbers above nodes are posterior prob-abilities.
 ![](Images/Picture4.png)
 
-### Fig 6: Critical thermal maximum (CTMAX) for a) L. tetonica, L. tumana, and Zapada sp. And b) L. teton-ica only (grouped by stream type). Supercooling points of c) Lednia tetonica, Lednia tumana, and another alpine stoneﬂy, Zapada sp. And d) L. tetonica only (grouped by stream type). Lower-case letters within plots indicate signiﬁcant diﬀerences between groups at P < 0.05. Data re-plotted from Hotaling et al. (2020b) and Hotaling et al. (2021a, b).
+### Fig 5: A re-analysis of sequence data included in Hotaling etal. (2019b) with new samples of Lednia bore-alis added (see Supporting Information). a Cytochrome oxidase c subunit I (COI) haplotype network of all available Lednia sequences. Colored circles represent haplotypes and N indicates the number of substitution steps (i.e., one nucleotide diﬀerence) between haplotypes. b COI gene trees for all Lednia sequences. Ter-minal nodes for everything except L. borealis (the new sequences included in this study) were compressed into triangles and scaled according to the number of sequences. Numbers above nodes are posterior prob-abilities.
 ![](Images/Picture5.png)
+
+### Fig 6: Critical thermal maximum (CTMAX) for a) L. tetonica, L. tumana, and Zapada sp. And b) L. teton-ica only (grouped by stream type). Supercooling points of c) Lednia tetonica, Lednia tumana, and another alpine stoneﬂy, Zapada sp. And d) L. tetonica only (grouped by stream type). Lower-case letters within plots indicate signiﬁcant diﬀerences between groups at P < 0.05. Data re-plotted from Hotaling et al. (2020b) and Hotaling et al. (2021a, b).
+![](Images/Picture6.png)
