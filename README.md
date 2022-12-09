@@ -13,7 +13,7 @@ Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah,
 # Methods
 
 ### Photo of Experimental Setup
-![](Figs/Photo_networks.jpeg)
+![](Images/Picture0.png)
 
 ### Fig 1: Figure of Experimental Setup
-![](Figs/Fig1.png)
+![](Images/Picture1.png)
