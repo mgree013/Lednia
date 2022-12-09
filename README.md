@@ -16,10 +16,10 @@ Authors: Matthew D. Green, Lusha M. Tronstad, J. Joseph Giersch, Alisha A. Shah,
 ![](Images/Picture1.png)
 
 ### Fig 3: The cumulative number of populations discovered through time for all Lednia and each species, respectively. The year of discovery corresponds to the publication year for the study detailing the ﬁndings (if published).
-![](Images/Picture2.png)
+![](Images/Picture3.png)
 
 ### Fig 4: Variation in a elevation and b distance to  source across Lednia species. Complete methods and results for these ﬁgures are provided in Supporting Information and Tables S2–S3, respectively. Approxi-mate treeline in (a) was visually estimated using Google Earth imagery.
-![](Images/Picture3.png)
+![](Images/Picture2.png)
 
 ### Fig 5: A re-analysis of sequence data included in Hotaling etal. (2019b) with new samples of Lednia bore-alis added (see Supporting Information). a Cytochrome oxidase c subunit I (COI) haplotype network of all available Lednia sequences. Colored circles represent haplotypes and N indicates the number of substitution steps (i.e., one nucleotide diﬀerence) between haplotypes. b COI gene trees for all Lednia sequences. Ter-minal nodes for everything except L. borealis (the new sequences included in this study) were compressed into triangles and scaled according to the number of sequences. Numbers above nodes are posterior prob-abilities.
 ![](Images/Picture4.png)
